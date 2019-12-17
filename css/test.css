@@ -1,0 +1,30 @@
+body{
+    background-color:royalblue;
+    text-align: center;
+
+}
+h1{
+    color: aqua;
+}
+h2
+{
+    color: blueviolet;
+}
+#output{
+    color: red;
+}
+h5{
+    font-size: 40px;
+}
+h6{
+    font-size: 40px;
+}
+.c1{
+    font-family: 'Courier New';
+}
+.c2{
+    color: wheat;
+}
+.c3{
+    font-size: 50px;
+}
